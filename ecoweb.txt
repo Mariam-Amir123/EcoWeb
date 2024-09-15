@@ -1,0 +1,5 @@
+MONGO_URI=mongodb+srv://<mariamamirhanna1>:<xQUITRu2tBRIOAyG>@cluster0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+JWT_SECRET=mysecretkey
+PORT=5000
+PORT=3000
+DB_URI=mongodb://localhost:27017/myFirstDatabase
